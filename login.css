@@ -1,0 +1,43 @@
+body{
+    background-color: antiquewhite;
+}
+.login{
+    background-color: rgb(136, 128, 128); 
+    width: 50%;
+    text-align: center;
+    margin-top: 250px;
+    margin-left: 170px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 0.5cm;
+}
+.username{
+    padding-top: 20px;
+}
+.password{
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.username label{
+    color: white;
+    font-size: 15pt;
+}
+.password{
+    color: white;
+    font-size: 15pt;
+}
+.btn{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.btn button{
+    font-size: 15pt;
+    border-radius: 0.3cm;
+    background-color: aqua;
+}
+.username input{
+    border-radius: 0.1cm;
+}
+.password input{
+    border-radius: 0.1cm;
+}
